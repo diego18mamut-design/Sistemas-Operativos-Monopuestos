@@ -1,1 +1,1 @@
-# Sistemas-Operativos-Monopuestos
+# Sistemas-Operativos-Monopuestos-Diego Bercedo
